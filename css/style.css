@@ -1,0 +1,901 @@
+button:focus {
+outline: none !important;
+}
+input:focus {
+outline: none !important;
+}
+textarea:focus {
+outline: none !important;
+}
+.body{
+	margin: 0px;
+}
+.menu{
+	background-image: url("../img/background/Layer 96.png");
+}
+.menu-box{
+	padding-bottom: 35px;
+	margin-top: 40px;
+}
+.menu-box:hover{
+	border-bottom: 5px solid #11749e;
+}
+.menu-logo{
+	margin-top: 20px;
+	height: 60px;
+	width: 60px;
+	background-color: #11749e;
+	color: #f5f5f5;
+	box-shadow: 13px 13px 0px 0 rgba(214,214,214,1);
+}
+.menu-logo-text{
+	font-weight: bold;
+	font-size: 30px;
+	padding-top: 10px;
+	text-align: center;
+	font-family: 'Open Sans' , sans-serif;
+
+}
+.menu-text{
+	font-size: 20px;
+	font-weight: 400;
+}
+.tutorial{
+	margin-left: 20px;
+}
+.menu-text{
+	font-size: 20px;
+	color: #ffff;
+}
+.creatives{
+	font-size: 156px;
+	color: #ffff;
+	font-weight: bolder;
+	margin-top: 325px;
+	text-align: center;
+}
+.scroll{
+	text-align: center;
+	margin-bottom: 110px;
+	margin-top: 176px;
+	font-family: 'Open Sans' , sans-serif;
+	color: #f5f5f5;
+}
+.agency{
+	background-color: #11749e;
+}
+.awesome-text{
+	margin-top: 170px;
+	color: #ffffff;
+	margin-bottom: 147px;
+	text-align: center;
+}
+.img-agency{
+	border-radius: 37px;
+	margin-left: 34%;
+	padding: 30px 30px;
+	background-color: rgba(255,255,255,0.2);
+	margin-bottom: 70px;
+}
+.text-agency{
+	font-size: 18px;
+	text-align: center;
+	color: #ffff;
+}
+.scnd-text-agency{
+	color: #ffff;
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 130px;
+}
+.akita{
+	background-color: #222222;
+}
+.culture{
+	margin-top: 80px;
+	margin-bottom: 20px;
+	color: #ffffff;
+}
+.akita-text{
+	margin-bottom: 47px;
+	color: #ffff;
+}
+.akita-scnd-text{
+	color: #ffff;
+}
+.akita-down{
+	background-color: #ffffff;
+}
+.lets-blog{
+	text-align: center;
+	margin-bottom: 113px;
+	margin-top: 163px;
+}
+.B{
+	font-size: 247px;
+	font-weight: bold;
+	font-family: 'Open Sans' , sans-serif;
+	color: rgba(0,0,0,0.3);
+	z-index: 99;
+	position: absolute;
+	top: 40px;
+	left: 40%;	
+
+}
+.clean-design{
+	text-align: center;
+	margin-bottom: 80px;
+	font-size: 30px;
+}
+.campaign{
+	margin-top: 46px;
+	font-size: 18px;
+	color: #11749e;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.campaign-lorem{
+	text-align: center;
+}
+.pencil{
+	background-color: #11749e;
+}
+.pencil-photo{
+	margin-top: 110px;
+	width: 100%;
+}
+.pencil-txt{
+	margin-top: 105px;
+	color: white;
+	margin-bottom: 155px;
+}
+.phone{
+	margin-top: 50px;
+}
+.akita-phone{
+	color: white;
+	font-size: 25px;
+	margin-bottom: 40px;
+	margin-top: 210px;
+}
+.phone-scnd-text{
+	color: white;
+}
+.but-phone{
+	height: 30px;
+	border: 0;
+	background: #11749e;
+	text-align: left;
+	color: white;
+}
+.one{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.two{
+	width: 95%;
+	margin-bottom: 20px;
+}
+.three{
+	width: 100%;
+}
+.layer88-photo{
+	width: 100%;
+}
+.layer90-photo{
+	width: 100%;
+}
+.phone-head-design{
+	margin-bottom: 20px;
+	background-color: #11749e;
+	font-size: 15px;
+	color: white;
+	height: 38px;
+	padding-top: 8px;
+	padding-left: 19px;
+}
+.phone{
+	margin: 0px;
+	background-image: url(../img/background/Layer87.png);
+}
+.phone-photo{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.back-letter{
+	font-size: 247px;
+	font-weight: bold;
+	font-family: 'Open Sans' , sans-serif;
+	color: rgba(0,0,0,0.1);
+	z-index: 99;
+	position: absolute;
+	top: 15px;
+	left: 31%;	
+}
+.our-team{
+	margin-top: 140px;
+	font-size: 37px;
+	margin-left: 2%;
+	text-align: center;
+	z-index: 2;
+}
+.akita-txt-block{
+	background-color: white;
+}
+.black{
+	color: black;
+}
+.sales{
+	margin-top: 140px;
+	margin-bottom: 76px;
+	text-align: center;
+}
+.text-on-worker{
+	margin-left: 10%;
+	width: 217px;
+	background: white;
+	position: relative;
+	top: -8%;
+}
+.worker-name{
+	color: #11749e;
+	text-align: center;
+}
+.worker-post{
+	text-align: center;
+}
+.header-message{
+	z-index: 99;
+	color: white;
+	text-align: center;
+	margin-bottom: 150px;
+	margin-top: 220px;
+}
+.message{
+	background-image: url(../img/background/Layer97.png);
+}
+.c{
+	top: 20%;
+	position: absolute;
+	z-index: 1;
+	color: rgba(255,255,255,0.3);
+	font-size: 247px;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 0px;
+	left: 40%;
+}
+.inp-project{
+	padding-left: 24px;
+	border: 1px solid white;
+	background: rgba(0,0,0,0);
+	width: 350px;
+	height: 46px;
+	color: white;
+}
+.message-2{
+	width: 100%;
+	margin-top: 39px;
+	padding: 10px;
+	border: 1px solid white;
+	background: rgba(0,0,0,0);
+	color: white;
+	padding-left: 20px;
+	display: block;
+	height: 200px;
+}
+.submit{
+	color: white;
+	background: #11749e;
+	width: 224px;
+	height: 61px;
+	margin-top: 45px;
+	margin-bottom: 100px;
+	font-size: 24px;
+	font-weight: 500;
+	border: 0;
+	margin-left: 30%;
+}
+.w{
+	top: 10%;
+	position: absolute;
+	z-index: 1;
+	color: rgba(255,255,255,0.3);
+	font-size: 247px;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 0px;
+	left: 36%;
+}
+@media screen and (min-width: 1125px) and (max-width: 1200px){
+	.menu-text{
+		font-size: 17px;
+	}
+	.w{
+		left: 35%;
+	}
+	.B{
+		left: 38%;
+	}
+	.photo-blog{
+		width: 95%;
+	}
+	.inp-project{
+		width: 300px;
+	}
+	.worker{
+		width: 90%;
+	}
+	.text-on-worker{
+		width: 180px;
+		margin-left: 2%;
+		top: -10%;
+	}
+}
+@media screen and (min-width: 992px) and (max-width: 1125px){
+	.menu-text{
+		font-size: 17px;
+	}
+	.w{
+		left: 35%;
+	}
+	.B{
+		left: 38%;
+	}
+	.photo-blog{
+		width: 95%;
+	}
+	.inp-project{
+		width: 300px;
+	}
+	.phone-photo{
+		width: 90%;
+	}
+	.worker{
+		width: 90%;
+	}
+	.text-on-worker{
+		width: 180px;
+		margin-left: 2%;
+		top: -10%;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 992px){
+	.menu-text{
+		font-size: 13px;
+	}
+	.creatives{
+		margin-top: 200px;
+		margin-bottom: 80px;
+		text-align: center;
+		font-size: 120px;
+	}
+	.w{
+		left: 32%;
+	}
+	.awesome-text{
+		font-size: 35px;
+	}
+	.B{
+		left: 35%;
+	}
+	.clean-design{
+		font-size: 17px;
+	}
+	.img-agency{
+		margin-left: 16%;
+	}
+	.photo-blog{
+		width: 90%;
+	}
+	.campaign{
+		font-size: 12px;
+	}
+	.campaign-lorem{
+		font-size: 12px;
+	}
+	.phone-head-design{
+		font-size: 13px;
+	}
+	.back-letter{
+		left: 20%;
+	}
+	.worker{
+		width: 95%;
+	}
+	.text-on-worker{
+		width: 80%;
+		margin-left: 7%;
+	}
+	.worker-name{
+		font-size: 18px;
+	}
+	.worker-post{
+		font-size: 13px;
+	}
+	.header-message{
+		font-size: 30px;
+	}	
+	.inp-project{
+		width: 200px;
+	}
+	.phone-photo{
+		width: 100%;
+	}
+	.akita-phone{
+		margin-top: 50px;
+	}
+	.submit{
+		margin-left: 19%;
+	}
+}
+@media screen and (min-width: 544px) and (max-width: 768px){
+	.menu-text{
+		font-size: 10px;
+		width: 50px;
+	}
+	.creatives{
+		font-size: 80px;
+	}	
+	.w{
+		font-size: 150px;
+		top: 90px;
+	}
+	.awesome-text{
+		font-size: 30px;
+	}	
+	.B{
+		top: 100px;
+		font-size: 130px;
+		left: 40%;
+	}	
+	.lets-blog{
+		font-size: 35px;
+	}
+	.phone-photo{
+		width: 100%;
+		margin-top: 130px;
+	}
+	.akita-phone{
+		font-size: 18px;
+		margin-top: 60px;
+	}
+	.phone-scnd-text{
+		font-size: 15px;
+	}
+	.phone-head-design{
+		font-size: 12px;
+	}
+	.back-letter{
+		left: 30%;
+	}
+	.header-message{
+		font-size: 20px;
+	}
+	.c{
+		font-size: 200px;
+		top: 100px;
+	}
+	.inp-project{
+		margin-top: 20px;
+		width: 100%;
+	}
+	.submit{
+		margin-left: 10%;
+	}
+	.photo-blog{
+		width: 90%;
+	}
+	.worker{
+		width: 100%;
+	}
+	.text-on-worker{
+		width: 80%;
+		margin-left: 10%;
+	}
+	.message-2{
+		height: 90px;
+	}
+	.menu-logo{
+		width: 45px;
+		height: 45px;
+		box-shadow: 8px 8px 0px 0 rgba(214,214,214,1);
+	}
+	.menu-logo-text{
+		font-size: 20px;
+	}
+	.menu-text.contact{
+		float: left;
+	}
+}
+@media screen and (min-width: 426px) and (max-width: 544px){
+	.menu-text{
+		font-size: 10px;
+	}
+	.creatives{
+		font-size: 60px;
+	}
+	.phone-photo{
+		width: 90%;
+		margin-top: 130px;
+	}	
+	.inp-project{
+		width: 100%;
+		margin-top: 20px;
+	}
+	.photo-blog{
+		width: 100%;
+	}
+	.worker{
+		width: 100%;
+	}
+	.text-on-worker{
+		width: 80%;
+		margin-left: 10%;
+	}
+	.contact{
+		float: right;
+	}
+	.w{
+		top: 20%;
+		left: 28%;
+		font-size: 200px;
+	}
+	.message-2{
+		height: 150px;
+	}
+	.img-agency{
+		margin-left: 27%;
+	}
+	.B{
+		left: 33%;
+	}
+	.akita-phone{
+		margin-top: 50px;
+		font-size: 15px;
+	}
+	.phone-scnd-text{
+		font-size: 14px;
+	}
+	.phone-head-design{
+		font-size: 10px;
+		padding-left: 10px;
+	}
+	.phone-photo{
+		margin-top: 130px;
+	}
+	.worker-name{
+		font-size: 20px;
+	}
+	.back-letter{
+		left: 28%;
+	}
+	.header-message{
+		margin-top: 100px;
+		font-size: 30px;
+	}
+	.c{
+		left: 35%;
+		top: 10px;
+		font-size: 200px;
+	}
+	.submit{
+		margin-left: 1%;
+	}
+	.menu-logo{
+		width: 45px;
+		height: 45px;
+		box-shadow: 8px 8px 0px 0 rgba(214,214,214,1);
+	}
+	.menu-logo-text{
+		font-size: 20px;
+	}
+	.menu-text.extension{
+		float: left;
+	}
+	.menu-text.features{
+		float: right;
+	}
+}
+@media screen and (min-width: 375px) and (max-width: 426px){
+	.phone-photo{
+		width: 100%;
+		margin-top: 250px;
+	}
+	.creatives{
+		font-size: 50px;
+	}
+	.worker{
+		width: 90%;
+	}
+	.text-on-worker{
+		width: 80%;
+		margin: 0px;
+		margin-left: 5%;
+	}
+	.photo-blog{
+		width:100%;
+	}
+	.submit{
+		margin-left: -30px;
+		margin-bottom: 20px;
+	}
+	.menu-text{
+		font-size: 8px;
+	}
+	.w{
+		top: 100px;
+		font-size: 150px;
+		left: 32%;
+	}
+	.awesome-text{
+		font-size: 30px;
+		margin-bottom: ;               
+	}
+	.img-agency{
+		margin-left: 20%;
+	}
+	.b{
+		font-size: 150px;
+	}
+	.lets-blog{
+		font-size: 40px;
+		margin-top: 110px;
+	}
+	.akita-phone{
+		margin-top: 70px;
+	}
+	.phone-head-design{
+		font-size: 10px;
+	}
+	.back-letter{
+		left: 25%;
+	}
+	.worker-name{
+		font-size: 18px;
+	}
+	.c{
+		top: 20px;
+		font-size: 170px;
+		left: 36%;
+	}
+	.header-message{
+		font-size: 30px;
+		margin-top: 90px;
+		margin-bottom: 100px;
+	}
+	.inp-project{
+		margin-bottom: 20px;
+	}
+	.menu-logo{
+		width: 35px;
+		height: 35px;
+		box-shadow: 5px 5px 0px 0 rgba(214,214,214,1);
+	}
+	.menu-logo-text{
+		font-size: 15px;
+	}
+	.menu-text.extension{
+	}
+	.menu-text.features{
+		float: left;
+	}
+	.menu-text{
+		font-size: 10px;
+	}
+	.menu-text.contact{
+		float: right;
+	}
+}
+@media screen and (min-width: 320px) and (max-width: 375px){
+	.creatives{
+		font-size:30px;
+	}
+	.menu-text{
+		font-size:5px;
+	}
+	.photo-blog{
+		width: 100%;
+	}
+	.phone-photo{
+		width: 90%;
+		margin-top: 250px;
+	}
+	.worker{
+		width:100%;
+	}
+	.text-on-worker{
+		width:90%;
+		margin:0px;
+		margin-left:5%;
+	}
+	.worker-name{
+		font-size: 20px;
+	}
+	.submit{
+		margin-left: -30%;
+		margin-bottom: 30px;
+	}
+	.inp-project{
+		margin-bottom: 20px;
+		width: 100%;
+	}
+	.w{
+		top:100px;
+		font-size: 150px;
+		left:28%;
+	}
+	.c{
+		left: 35%;
+		font-size:150px;
+	}
+	.B{
+		left:35%;
+		font-size:150px;
+	}
+	.img-agency{
+		margin-left: 15%;
+	}
+	.text-agency{
+		font-size: 23px;
+	}
+	.awesome-text{
+		font-size:30px;
+	}
+	.lets-blog{
+		margin-top: 105px;
+	}
+	.akita-phone{
+		margin-top: 50px;
+	}
+	.phone-head-design{
+		font-size: 9px;
+	}
+	.back-letter{
+		left: 18%;
+	}
+	.our-team{
+		font-size: 30px;
+	}
+	.header-message{
+		font-size: 25px;
+		margin-top: 140px;
+	}
+	.pencil-txt{
+		font-size: 15px;
+	}
+	.phone-scnd-text{
+		font-size: 13px;
+	}
+	.akita-phone{
+		font-size: 20px;
+	}
+	.menu-logo{
+		width: 35px;
+		height: 35px;
+		box-shadow: 5px 5px 0px 0 rgba(214,214,214,1);
+	}
+	.menu-logo-text{
+		font-size: 15px;
+	}
+	.menu-text.extension{
+	}
+	.menu-text.features{
+		float: left;
+	}
+	.menu-text{
+		font-size: 10px;
+	}
+	.menu-text.contact{
+		float: left;
+	}
+	.menu-text.tutoriall{
+		display:none;	}
+}
+@media screen and (min-width: 279px) and (max-width: 320px){
+	.creatives{
+		font-size:30px;
+	}
+	.menu-text{
+		font-size:5px;
+	}
+	.photo-blog{
+		width: 100%;
+	}
+	.phone-photo{
+		width: 90%;
+		margin-top: 250px;
+	}
+	.worker{
+		width:100%;
+	}
+	.text-on-worker{
+		width:90%;
+		margin:0px;
+		margin-left:5%;
+	}
+	.worker-name{
+		font-size: 20px;
+	}
+	.submit{
+		margin-left: -50%;
+		margin-bottom: 30px;
+	}
+	.inp-project{
+		margin-bottom: 20px;
+		width: 100%;
+	}
+	.w{
+		top:100px;
+		font-size: 150px;
+		left:28%;
+	}
+	.c{
+		left: 35%;
+		font-size:150px;
+	}
+	.B{
+		left:35%;
+		font-size:150px;
+	}
+	.img-agency{
+		margin-left: 5%;
+	}
+	.text-agency{
+		font-size: 23px;
+	}
+	.awesome-text{
+		font-size:30px;
+	}
+	.lets-blog{
+		margin-top: 105px;
+	}
+	.akita-phone{
+		margin-top: 50px;
+	}
+	.phone-head-design{
+		font-size: 9px;
+	}
+	.back-letter{
+		left: 18%;
+	}
+	.our-team{
+		font-size: 30px;
+	}
+	.header-message{
+		font-size: 25px;
+		margin-top: 140px;
+		margin-bottom: 100px;
+	}
+	.pencil-txt{
+		font-size: 12px;
+	}
+	.phone-scnd-text{
+		font-size: 13px;
+	}
+	.akita-phone{
+		font-size: 20px;
+	}
+	.menu-logo{
+		width: 35px;
+		height: 35px;
+		box-shadow: 5px 5px 0px 0 rgba(214,214,214,1);
+	}
+	.menu-logo-text{
+		font-size: 15px;
+	}
+	.menu-text.extension{
+	}
+	.menu-text.features{
+		float: left;
+	}
+	.menu-text{
+		font-size: 10px;
+	}
+	.menu-text.contact{
+		display: none;
+	}
+	.menu-text.tutoriall{
+		display:none;	
+	}
+}
